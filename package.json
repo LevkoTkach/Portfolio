@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1",
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.65.1",
     "@react-three/fiber": "^8.12.0",
