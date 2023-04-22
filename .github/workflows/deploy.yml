@@ -3,13 +3,16 @@ name: Deploy
 on:
   push:
     branches: [ "main" ] 
-    workfolw_dispatch:  
+    workfolw_dispatch: 
+    permissions:
+      contents: write 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-        uses: actions/checkout@v3
+      - name: Check out this repo
+        uses: actions/checkout@v2
 
       - name: Install dependencies
         uses: npm ci
