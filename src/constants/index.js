@@ -189,7 +189,7 @@ const projects = [
       },
     ],
     image: hoobank,
-    page_link: "https://www.modern-bussiness-website.com/",
+    page_link: "https://levkotkach.github.io/Bank/",
     source_code_link: "https://github.com/LevkoTkach/Bank",
   },
 ];
