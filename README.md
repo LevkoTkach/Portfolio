@@ -1,6 +1,6 @@
 # Portfolio
 
-<p> My personsl Portfolio <p/>
+<p> My Developer Portfolio <p/>
 
 # Get Started
 
