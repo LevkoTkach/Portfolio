@@ -76,7 +76,7 @@ const Contact = () => {
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
         <a href="https://t.me/LevkoTk">
-          <p className='orange-text-gradient py-4 text-[22px] font-medium' >Clic here to masege me in Telegram!</p>
+          <p className='orange-text-gradient py-4 text-[22px] font-medium' >Click here to message me in Telegram!</p>
         </a>
         <form
           ref={formRef}
